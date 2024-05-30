@@ -2,7 +2,7 @@
 Hola, soy Emanuel Blanco, desarrollador FrontEnd con sólida formación autodidacta y en constante crecimiento en BackEnd. Mi compromiso con la excelencia y el aprendizaje continuo, busco llegar a ser un gran profesional. Actualmente me sigo perfeccionando para llegar a ser Desarrollador Web Full Stack.
 
 
-## 🌐 Socials:
+## 🌐 Contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blancoemanuel07) 
 
 # 💻 Tech Stack:
