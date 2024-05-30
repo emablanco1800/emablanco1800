@@ -1,4 +1,4 @@
-# 💫 Sobre Me:
+# 💫 Sobre Mi:
 Hola, soy Emanuel Blanco, desarrollador FrontEnd con sólida formación autodidacta y en constante crecimiento en BackEnd. Mi compromiso con la excelencia y el aprendizaje continuo, busco llegar a ser un gran profesional. Actualmente me sigo perfeccionando para llegar a ser Desarrollador Web Full Stack.
 
 
