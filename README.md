@@ -1,5 +1,5 @@
 # 💫 Sobre Mi:
-Hola, soy Emanuel Blanco, desarrollador FrontEnd con sólida formación autodidacta y en constante crecimiento en BackEnd. Mi compromiso con la excelencia y el aprendizaje continuo, busco llegar a ser un gran profesional. Actualmente me sigo perfeccionando para llegar a ser Desarrollador Web Full Stack.
+Hola, soy Emanuel Blanco, un apasionado del desarrollo web que ha dedicado su tiempo a formarse de manera autodidacta. Mi camino comenzó en el mundo del FrontEnd, donde he adquirido sólidas bases en HTML, CSS, JavaScript y React. Sin embargo, mi curiosidad e interés por el desarrollo me han llevado a explorar también el BackEnd, donde me encuentro en constante crecimiento.
 
 
 ## 🌐 Contacto:
