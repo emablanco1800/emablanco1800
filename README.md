@@ -13,7 +13,6 @@ Hola, soy Emanuel Blanco, un apasionado del desarrollo web que ha dedicado su ti
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emablanco1800&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=emablanco1800&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
